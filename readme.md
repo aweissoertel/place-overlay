@@ -1,3 +1,10 @@
+# Overlay für den PapaPlatte Chat
+
+Nach dem Installieren siehst du auf der r/place Leinwand kleinere "Pixel" innerhalb der tatsächlichen Pixel, welche dir angeben, welche Farbe der Pixel haben sollte:
+
+<img width="610" alt="image" src="https://github.com/aweissoertel/place-overlay/assets/57036035/1b59abd1-31e5-4fa7-867b-3e5f2f297026">
+
+
 # Overlay installieren
 
 1. https://www.tampermonkey.net/ öffnen
