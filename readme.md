@@ -8,7 +8,7 @@
    
    ![Download-Fenster](img/tapermonkey-marker.png)
 
-3. Anschließend auf diesen Link klicken: https://github.com/PlaceDE-Official/place-overlay/raw/main/src/scripts/placeDE-overlay.user.js. Tampermonkey sollte das Skript erkennen.
+3. Anschließend auf diesen Link klicken: https://github.com/aweissoertel/place-overlay/raw/main/src/scripts/placeDE-overlay.user.js. Tampermonkey sollte das Skript erkennen.
    
    ![Addon Tampermonkey](img/script-uebersicht.png)
    
@@ -23,9 +23,6 @@ Nach dem Installieren siehst du auf der r/place Leinwand kleinere "Pixel" innerh
 
 
 # FAQ
-
-## Wieso ist die Flagge nicht im Overlay?
-Die Flagge ist relativ simpel und klar abgegrenzt. Somit kann jeder - auch Leute ohne Overlay - die Flagge reparieren. Wir nutzen die verfügbaren Pixel der Leute, die das Overlay installiert haben lieber um die komplizierteren Artworks zu schützen, die man nicht so einfach ohne irgendwelche Anweisungen wie z.B. das Overlay reparieren kann.
 
 ## Wieso funktioniert das Overlay nicht?
 Falls das Overlay nicht funktioniert stelle bitte folgende Sachen sicher:

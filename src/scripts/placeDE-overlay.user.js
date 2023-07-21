@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         r/placeDE Template
+// @name         r/placeDE Template for PP
 // @namespace    http://tampermonkey.net/
-// @version      8.1
-// @description  try to take over the canvas!
-// @author       placeDE Devs
+// @version      0.1
+// @description  für die latte
+// @author       alex
 // @match        https://garlic-bread.reddit.com/embed*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=reddit.com
 // @updateURL    https://github.com/PlaceDE-Official/place-overlay/raw/main/src/scripts/placeDE-overlay.user.js
@@ -22,7 +22,7 @@ if (window.top !== window.self) {
 }
 
 function updateImage() {
-    overlayImage.src = "https://place.army/overlay_target.png?" + Date.now()
+    overlayImage.src = "https://raw.githubusercontent.com/aweissoertel/place-overlay/main/target/out.png?" + Date.now()
 }
 
-setInterval(function () {overlayImage.src = "https://place.army/overlay_target.png?" + Date.now()}, 30000);
+setInterval(function () {overlayImage.src = "https://raw.githubusercontent.com/aweissoertel/place-overlay/main/target/out.png?" + Date.now()}, 30000);
