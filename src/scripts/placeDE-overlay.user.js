@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         r/place template for r/btd6
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  Enjoy!
 // @author       squab_
 // @match        https://garlic-bread.reddit.com/embed*
