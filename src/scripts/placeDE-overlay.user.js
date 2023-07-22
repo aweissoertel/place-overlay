@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         r/placeDE Template for PP
+// @name         r/place template for r/btd6
 // @namespace    http://tampermonkey.net/
-// @version      0.2
-// @description  für die latte
-// @author       alex
+// @version      0.1
+// @description  Enjoy!
+// @author       squab_
 // @match        https://garlic-bread.reddit.com/embed*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=reddit.com
 // @updateURL    https://github.com/aweissoertel/place-overlay/raw/main/src/scripts/placeDE-overlay.user.js
